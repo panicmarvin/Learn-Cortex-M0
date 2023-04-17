@@ -1,0 +1,7 @@
+I
+L 50
+W 0x10000004 0x12345678 w incr p0000 nolock okay
+I
+L 10
+P 0x10000004 0x12345678 t3
+q
